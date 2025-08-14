@@ -1,4 +1,4 @@
-# Predictive-ecommerce-sales
+# Predictive-ecommerce-sales-ML
 
 This project analyzes Amazon ecommerce customer data to understand pricing, purchasing patterns, and review relationships. It uses machine learning models to predict total purchase amounts and explores feature correlations.
 
